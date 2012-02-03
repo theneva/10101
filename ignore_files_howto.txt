@@ -1,0 +1,16 @@
+Filnavn: .gitignore
+
+# ignorer mappen nbproject
+nbproject/
+
+# ignorer filen schema.rb i mappen db
+db/schema.rb
+
+# ignorer filen .DS_Store
+DS_Store
+
+# ignorer alle filer under mappen log
+log/*
+
+# ignorer alle photoshop-documents (.psd)
+*.psd
